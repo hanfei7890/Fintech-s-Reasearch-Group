@@ -19,3 +19,26 @@ https://github.com/han-cai/EAS
 https://github.com/FinleyLi/MultiCharts-PowerLanguage 
 
 https://github.com/Bartzi/see 
+
+https://github.com/IBM/real-time-payments IBM 支付 
+
+https://github.com/fintech-to-ynab/fintech-to-ynab 
+
+https://github.com/foolcage/fooltrader 傻瓜版本trader 
+
+https://github.com/yeasy/blockchain_guide    
+https://github.com/OSE-Lab/learning-blockchain   区块链  
+
+https://github.com/constverum/Quantdom  
+
+https://github.com/Yuzhen-Li/Analysis-of-Public-Opinion-Based-on-Microblogging-Reptile  
+
+
+
+### Imagenet 
+
+https://github.com/dontfollowmeimcrazy/imagenet 
+
+https://github.com/ducha-aiki/caffenet-benchmark 
+
+https://github.com/ducha-aiki/caffenet-benchmark 
