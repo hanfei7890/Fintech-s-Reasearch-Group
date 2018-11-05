@@ -10,3 +10,12 @@ https://github.com/RogerMonkey/IJCAI_CUP_2017
 
 https://github.com/vnpy/vnpy  VNPY
 http://www.vnpy.org/
+
+
+https://github.com/akaunting/akaunting 
+
+https://github.com/han-cai/EAS
+
+https://github.com/FinleyLi/MultiCharts-PowerLanguage 
+
+https://github.com/Bartzi/see 
