@@ -56,3 +56,5 @@ IBM Watson could do recognition
 
 
 Almond 
+搭建一个 chatbox 
+https://richreview.net/viewer?access_code=7bf0f0add24f13dda0c0a64da0f45a0a6909809e&docid=116730002901619859123_1416501969000&groupid=116730002901619859123_1424986924617 
