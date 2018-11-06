@@ -42,3 +42,17 @@ https://github.com/dontfollowmeimcrazy/imagenet
 https://github.com/ducha-aiki/caffenet-benchmark 
 
 https://github.com/ducha-aiki/caffenet-benchmark 
+
+
+
+IBM Watson could do recognition 
+1.用户在虚拟现实环境中进行交互，并提供语音命令，如“创建一个黑色的大盒子”。
+
+2.Oculus Rift Headset 麦克风接收语音命令，然后由正在运行的应用程序将该命令发送至 Watson Speech-to-Text。
+
+3.Watson Speech-to-Text 将该音频转换为文本，然后将该文本返回到支持 Oculus Rift 的正在运行的应用程序。
+
+4.应用程序将该文本发送至 Watson Conversation。Watson Conversation 将返回已识别的意图“创建”以及实体“大”、“黑色”和“盒子”。然后，虚拟现实应用程序将显示一个黑色的大盒子（从天而降）。 
+
+
+Almond 
