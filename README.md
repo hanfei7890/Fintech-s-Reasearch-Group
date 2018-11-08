@@ -77,7 +77,7 @@ https://arxiv.org/abs/1508.01585
 
 3. 数据挖掘最近会议文章 
 
-Topic 1: Social Network
+# Topic 1: Social Network
 
 Alexander Gorovits, Ekta Gujral, Evangelos Papalexakis, Petko Bogdanov 
 LARC: Learning Activity-Regularized overlapping Communities across Time
@@ -111,7 +111,7 @@ Jiawei Zhang, Congying Xia, Chenwei Zhang, Limeng Cui, Yanjie Fu, Philip S. Yu
 BL-MNE: Emerging Heterogeneous Social Network Embedding through Broad Learning with Aligned Autoencoder 
 ICDM 2017 (pdf)
 
-Topic 2: Pattern Mining
+# Topic 2: Pattern Mining
 
 Qi Li, Meng Jiang, Xikun Zhang, Meng Qu, Timothy Hanratty, Jing Gao, Jiawei Han 
 TruePIE: Discovering Reliable Patterns in Pattern?Based Information Extraction
@@ -137,7 +137,7 @@ Yaqing Wang, Fenglong Ma, Lu Su, Jing Gao
 Discovering Truths from Distributed Data 
 ICDM 2017 (pdf)
 
-Topic 3: Data Stream
+# Topic 3: Data Stream
 
 Tong Yang, Junzhi Gong, Haowei Zhang, Lei Zou, Lei Shi, Xiaoming Li 
 HeavyGuardian: Separate and Guard Hot Items in Data Streams
@@ -159,7 +159,7 @@ Alessandro Flammini, Filippo Menczer, Giovanni Luca Ciampaglia
 Finding Streams in Knowledge Graphs to Support Fact Checking 
 ICDM 2017 (pdf)
 
-Topic 4: Spatial Mining
+# Topic 4: Spatial Mining
 
 Decoupled Learning for Factorial Marked Temporal Point Processes
 Weichang Wu, Junchi Yan, Xiaokang Yang, Hongyuan Zha
@@ -205,7 +205,7 @@ Ali Ziat, Edouard Delasalles, Ludovic Denoyer, Patrick Gallinari
 Spatio-Temporal Neural Networks for Space-Time Series Forecasting and Relations Discovery 
 ICDM 2017 (pdf)
 
-Topic 5: Time Series Data
+# Topic 5: Time Series Data
 
 Dongjin Song, Ning Xia, Wei Cheng, Haifeng Chen, Dacheng Tao 
 Deep r-th Root Rank Supervised Joint Binary Embedding for Multivariate Time Series Retrieval
@@ -227,7 +227,7 @@ Xiaosheng Li, Jessica Lin
 Linear Time Complexity Time Series Classification with Bag-of-Pattern-Features 
 ICDM 2017 (pdf)
 
-Topic 6: Graph Mining
+# Topic 6: Graph Mining
 
 John Boaz Lee, Ryan Rossi, Xiangnan Kong 
 Graph Classification using Structural Attention
@@ -285,7 +285,7 @@ Christopher Morris, Kristian Kersting, Petra Mutzel
 Glocalized Weisfeiler-Lehman Graph Kernels: Global-Local Feature Maps of Graphs 
 ICDM 2017 (pdf)
 
-Topic 7: Classification
+# Topic 7: Classification
 
 Atsutoshi Kumagai, Tomoharu Iwata
 Learning Dynamics of Decision Boundaries without Additional Labeled Data
@@ -303,7 +303,7 @@ Rui Liu, Soumya Ray
 An Analysis of Boosted Linear Classifiers on Noisy Data with Applications to Multiple-Instance Learning 
 ICDM 2017 (pdf)
 
-Topic 8: Rule Mining
+# Topic 8: Rule Mining
 
 Garrett Goh, Charles Siegel, Abhinav Vishnu, Nathan Hodas
 Using Rule-Based Labels for Weak Supervised Learning: A ChemNet for Transferable Chemical Property P
@@ -317,7 +317,7 @@ Stefan Neumann, Pauli Miettinen
 Reductions for Frequency-Based Data Mining Problems 
 ICDM 2017 (pdf)
 
-Topic 9: Deep Learning
+# Topic 9: Deep Learning
 
 Subspace Network: Deep Multi-Task Censored Regression for Modeling Neurodegenerative Diseases
 Mengying Sun, Inci M. Baytas, Liang Zhan, Zhangyang Wang, Jiayu Zhou
@@ -375,7 +375,7 @@ Changchang Yin,Buyue Qian,Shilei Cao,Xiaoyu Li,Jishang Wei,Qinghua Zheng,Ian Dav
 Deep Similarity-Based Batch Mode Active Learning with Exploration-Exploitation 
 ICDM 2017 (pdf)
 
-Topic 10: Recommendation
+# Topic 10: Recommendation
 
 Binbin Hu, Chuan Shi, Xin Zhao, Philip S. Yu 
 Leveraging Meta-path based Context for Top N recommendation with Co-attention mechanism
@@ -438,3 +438,9 @@ Relational Mixture of Experts: Explainable Demographics Prediction with Behavior
 ICDM 2017 (pdf)
 
 4. 如何设计一个类似Adobe 阅读器 
+
+  
+
+5. BitExTract: Interactive Visualization for Extracting Bitcoin Exchange Intelligence. 
+https://www.ncbi.nlm.nih.gov/pubmed/30130212 
+
