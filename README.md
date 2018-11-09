@@ -1,4 +1,4 @@
-# Fintech's Reasearch Group ComputerScience
+# Fintech's Reasearch Group 
 
 # Nov.5
  和大家分享一下我现在做的东西，因为是基于Unity的，我需要实现的功能： 
@@ -62,7 +62,7 @@ https://richreview.net/viewer?access_code=7bf0f0add24f13dda0c0a64da0f45a0a690980
 http://www.tuling123.com/ 
 
 
-Paperlist : 
+# Paperlist : 
 
 1. Almond  Virtual Assistant 
 https://dl.acm.org/citation.cfm?id=3052562    
