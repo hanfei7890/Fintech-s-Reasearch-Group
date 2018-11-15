@@ -368,7 +368,7 @@ ICDM 2017 (pdf)
 
 Minghui Qiu,Peilin Zhao,Ke Zhang,Jun Huang,Xing Shi,Xiaoguang Wang,Wei Chu
 A Short-Term Rainfall Prediction Model using Multi-Task Convolutional Neural Networks 
-ICDM 2017 (pdf)
+ICDM 2017 (pdf)  （select person:Pengfei Han)
 
 Changchang Yin,Buyue Qian,Shilei Cao,Xiaoyu Li,Jishang Wei,Qinghua Zheng,Ian Davidson
 Deep Similarity-Based Batch Mode Active Learning with Exploration-Exploitation 
